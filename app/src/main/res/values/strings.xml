@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AffirmationApp</string>
+    <string name="affirmation1">I don`t make mistakes</string>
+    <string name="affirmation2">I`m not "just like the rest of you"</string>
+    <string name="affirmation3">I`m stronger</string>
+    <string name="affirmation4">I`m smarter</string>
+    <string name="affirmation5">I`m better</string>
+    <string name="affirmation6">I`AM BETTER</string>
+</resources>
